@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+cs-training.csv
+credit_scoring_cleaned.csv
+credit_scoring_model.pkl
+.ipynb_checkpoints/
