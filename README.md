@@ -29,10 +29,10 @@ A Random Forest classification model was trained to predict whether a customer w
 
 | Metric    |  Score |
 | --------- | -----: |
-| Precision | 0.4301 |
-| Recall    | 0.3666 |
-| F1-Score  | 0.3958 |
-| ROC-AUC   | 0.8466 |
+| Precision | 0.2208 |
+| Recall    | 0.7646 |
+| F1-Score  | 0.3426 |
+| ROC-AUC   | 0.8653 |
 
 The ROC-AUC score of **0.8466** indicates that the model has good ability to distinguish between customers with and without serious delinquency.
 
